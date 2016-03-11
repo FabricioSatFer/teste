@@ -2,6 +2,3 @@ blabalbla
 
 
 testando o git
-
-
-1 2 3 testando
